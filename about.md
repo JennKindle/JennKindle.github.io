@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Education
 
-A place to include any other types of information that you'd like to include about yourself.
+<h3>Bachelor of Arts in Mathematics from University of South Florida</h3>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[KindleCodesMath@gmail.com](mailto:KindleCodesMath@gmail.com)

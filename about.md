@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### Education
+<h2>Education</h2>
 
 <h3>Bachelor of Arts in Mathematics from University of South Florida</h3>
 
-### Contact me
+<h2>Contact me</h2>
 
 [KindleCodesMath@gmail.com](mailto:KindleCodesMath@gmail.com)
